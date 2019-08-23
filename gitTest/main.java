@@ -7,6 +7,9 @@ public class main {
 System.out.println("hello world");
 
 System.out.print("hello again");
+
+System.out.print("hello develop");
+
 	}
 
 }
